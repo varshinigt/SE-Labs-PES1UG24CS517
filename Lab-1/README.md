@@ -12,6 +12,12 @@ VarshiniA_PES1UG24CS517_Requirements_Table.md
 VarshiniA_PES1UG24CS517_UseCase_Diagram.svg
 VarshiniA_PES1UG24CS517_UseCase_Flow_UC05.md
 
+Additional Word copies
+
+For convenient offline viewing/editing, Word equivalents are also provided:
+VarshiniA_PES1UG24CS517_UseCase_Diagram.docx
+VarshiniA_PES1UG24CS517_UseCase_Flow_UC05.docx
+
 Deliverables
 
 Requirements Table - exactly 5 Functional Requirements and 2 Non-Functional Requirements.
