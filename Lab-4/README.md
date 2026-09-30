@@ -4,6 +4,12 @@ This project is a single-file Defender-lite clone using **Pygame**. It introduce
 
 ---
 
+NAME - VARSHINI A
+SRN - PES1UG24CS517
+SECTION - I
+
+Note : The pdf may not be able to render the links properly, so .md is added for quick access to links
+
 ## What's Provided
 
 A working Defender-lite game with:
