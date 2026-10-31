@@ -8,3 +8,10 @@ https://github.com/varshinigt/L6_L7_28_airline_baggage
 - BranchCoverageTest_airline_baggage.py: test cases for branch coverage (100%)
 - screenshots/code_coverage.png: line coverage terminal output
 - screenshots/branch_coverage.png: branch coverage terminal output
+
+## Coverage results
+
+| Run | Tests | Coverage |
+|---|---|---|
+| Line coverage | 11 passed | 100% |
+| Branch coverage | 33 passed | 100% (26 branches, 0 partial) |
